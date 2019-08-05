@@ -1,6 +1,6 @@
 # Danielle's Spike
 
-## Simple Carousel tutorial that wored.
+## Simple Carousel tutorial that worked.
 https://www.npmjs.com/package/pure-react-carousel
 
 ## YouTube Video that I will go back to.
