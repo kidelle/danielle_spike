@@ -1,10 +1,10 @@
 import React from 'react';
-import Slider from './components/Slider';
+import SlideShow from './components/SlideShow';
 
 function App() {
   return (
     <div className="App">
-     <Slider />
+     <SlideShow />
     </div>
   );
 }
